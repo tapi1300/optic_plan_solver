@@ -4,13 +4,13 @@ This package contains a plan solver that uses [OPTIC] for solving PDDL plans.
 
 # Requirements
 
-instalation: https://nms.kcl.ac.uk/planning/software/optic.html
+install optic: https://nms.kcl.ac.uk/planning/software/optic.html
 
-This plugin is made for [Plansys2](https://github.com/IntelligentRoboticsLabs/ros2_planning_system), you must installed both plansys2 to try this plugin
+This plugin is made for Plansys2 (https://github.com/IntelligentRoboticsLabs/ros2_planning_system), you must installed both plansys2 to try this plugin
 
 To add plansys2 optic plugin to plansys2, clone the repository into ros2_planning_system folder.
 
-> modify /ros2_planning_system/params/plansys2_params.yaml to add OPTIC
+modify /ros2_planning_system/params/plansys2_params.yaml to add OPTIC
 
 ```
 planner:
