@@ -10,7 +10,7 @@ This plugin is made for Plansys2 (https://github.com/IntelligentRoboticsLabs/ros
 
 To add plansys2 optic plugin to plansys2, clone the repository into ros2_planning_system folder.
 
-modify /ros2_planning_system/params/plansys2_params.yaml to add OPTIC
+modify /ros2_planning_system/plansys2_bringup/params/plansys2_params.yaml to add OPTIC
 
 ```
 planner:
